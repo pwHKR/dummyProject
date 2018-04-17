@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     private void hejAndreas(String says){
 
 
-        Log.d("Andreas is: ", says);
+        Log.d("Peter says: ", says);
 
         // Peter
 
