@@ -19,5 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
         Log.d("Andreas is: ", says);
 
+        // Peter
+
     }
 }
